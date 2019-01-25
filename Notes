@@ -1,0 +1,13 @@
+/*
+What is wrapper class:
+to convert from String to int , String to double , we use : FORMAT_CONVERSION_NAME.parseFORMAT_CONVERSION_NAME;
+like String "100" --> Integer.parseInteger();
+if we have to convert from int to string then :
+int =20; --> String.valueof(int)
+*/
+
+Method overRiding : using same method , same number of arguments,  inherit 
+Method overriding is polymorphism
+
+
+MEthod OVerloading : using same method name but different parameters/arguments , return type
